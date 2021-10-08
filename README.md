@@ -1,2 +1,2 @@
 # avr-uart-lib
-UART library for AVR microcontroller
+UART library for AVR microcontrollers
